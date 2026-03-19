@@ -1,2 +1,0 @@
-rgname = "myrg"
-location = "canadacentral"
